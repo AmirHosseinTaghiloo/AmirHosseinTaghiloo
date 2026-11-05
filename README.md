@@ -3,10 +3,15 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/AmirHosseinTaghiloo/AmirHosseinTaghiloo/main/assets/profile-banner.svg" alt="Amir Hossein Taghiloo — Junior Frontend Developer" width="100%" />
   <br /><br />
-
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=850&color=FF8A00&center=true&vCenter=true&width=850&lines=Junior+Frontend+Developer;Vue.js+%7C+Nuxt.js+%7C+JavaScript+%7C+TypeScript;Building+responsive+and+modern+web+experiences" alt="Typing introduction" /></a>
+  <br /><br />
   <a href="https://github.com/AmirHosseinTaghiloo"><img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
   <a href="https://www.linkedin.com/in/amir-taghiloo-605928248/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
 </div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AmirHosseinTaghiloo/AmirHosseinTaghiloo/output/github-contribution-grid-snake-dark.svg" alt="Animated orange GitHub contribution snake" width="100%" />
+</p>
 
 ---
 
@@ -42,7 +47,7 @@ I enjoy building responsive, user-friendly web applications with clean, maintain
 <p align="center"><sub>Composition API · Composables · Reactivity · Lifecycle Hooks · Vue Router · Nuxt Middleware · Nuxt Plugins · Server Routes · Pinia · Vuex</sub></p>
 
 <p align="center"><strong>APIs &amp; Web Communication</strong></p>
-<p align="center"><img src="https://raw.githubusercontent.com/AmirHosseinTaghiloo/AmirHosseinTaghiloo/main/assets/axios-logo.svg" alt="Axios" width="54" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/AmirHosseinTaghiloo/AmirHosseinTaghiloo/main/assets/axios-logo.svg" alt="Axios" width="112" /></p>
 <p align="center"><sub>Axios · Fetch API · REST APIs · HTTP Status Codes · HTTP Caching · WebSockets · Server-Sent Events (SSE) · Pagination &amp; Filtering · File Upload</sub></p>
 
 <p align="center"><strong>Rendering, Performance &amp; SEO</strong></p>
@@ -104,18 +109,6 @@ I enjoy building responsive, user-friendly web applications with clean, maintain
     </td>
   </tr>
 </table>
-
----
-
-## 🐍 
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/AmirHosseinTaghiloo/AmirHosseinTaghiloo/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub contribution snake animation"
-    width="100%"
-  />
-</p>
 
 ---
 
