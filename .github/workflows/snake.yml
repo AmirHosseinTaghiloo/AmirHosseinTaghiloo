@@ -22,6 +22,12 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg?color_snake=%23ff8a00&color_dots=%232b1600,%23663300,%23cc5200,%23ff8a00,%23ffb347
             dist/github-contribution-grid-snake-dark.svg?color_snake=%23ff8a00&color_dots=%232b1600,%23663300,%23cc5200,%23ff8a00,%23ffb347&palette=github-dark
+      - name: Convert snake SVG files to PNG
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y librsvg2-bin
+          rsvg-convert -o dist/github-contribution-grid-snake.png dist/github-contribution-grid-snake.svg
+          rsvg-convert -o dist/github-contribution-grid-snake-dark.png dist/github-contribution-grid-snake-dark.svg
       - name: Publish snake to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
