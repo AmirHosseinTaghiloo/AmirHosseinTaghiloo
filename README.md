@@ -9,9 +9,7 @@
   <a href="https://www.linkedin.com/in/amir-taghiloo-605928248/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AmirHosseinTaghiloo/AmirHosseinTaghiloo/output/github-contribution-grid-snake-dark.svg" alt="Animated orange GitHub contribution snake" width="100%" />
-</p>
+
 
 ---
 
@@ -109,6 +107,19 @@ I enjoy building responsive, user-friendly web applications with clean, maintain
     </td>
   </tr>
 </table>
+
+
+---
+
+## 🐍 
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/AmirHosseinTaghiloo/AmirHosseinTaghiloo/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub contribution snake animation"
+    width="100%"
+  />
+</p>
 
 ---
 
