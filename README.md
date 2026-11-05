@@ -1,135 +1,122 @@
-<!-- Profile README for AmirHosseinTaghiloo -->
+<!-- GitHub Profile README — Amir Hossein Taghiloo -->
 
-<h1 align="center">Hi 👋, I'm Amir Hossein Taghiloo</h1>
-<h3 align="center">Computer Engineering Student · Junior Frontend Developer</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/AmirHosseinTaghiloo">
-    <img src="https://img.shields.io/badge/GitHub-AmirHosseinTaghiloo-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/amir-taghiloo-605928248/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Vue.js%20%7C%20Nuxt.js-42b883?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue and Nuxt">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,50:6A5AE0,100:8F5BFF&height=190&section=header&text=Amir%20Hossein%20Taghiloo&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Junior%20Frontend%20Developer%20%7C%20Vue.js%20%26%20Nuxt.js&descAlignY=60&descSize=17" alt="Amir Hossein Taghiloo — Junior Frontend Developer">
+
+<p>
+  <a href="https://github.com/AmirHosseinTaghiloo"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/amir-taghiloo-605928248/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <img src="https://img.shields.io/badge/Focus-Vue.js%20%7C%20Nuxt.js-42b883?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js and Nuxt.js">
 </p>
+
+</div>
 
 ---
 
 ## 👋 About Me
 
-I'm **Amir Hossein Taghiloo**, a Computer Engineering student and Junior Frontend Developer focused on building modern web applications with **Vue.js** and **Nuxt.js**.
+I'm **Amir Hossein Taghiloo**, a Computer Engineering student and **Junior Frontend Developer** focused on building modern web applications with **Vue.js** and **Nuxt.js**.
 
-I enjoy creating responsive, user-friendly web applications with clean, maintainable code. My current focus is Vue.js and Nuxt.js frontend development, including reusable components, REST API integration, state management, and user experience.
-
-My next learning goal is working with **LLM APIs** to integrate practical AI-powered features into frontend applications.
+I enjoy creating responsive, user-friendly interfaces with clean and maintainable code. I'm interested in component-based architecture, frontend performance, and turning ideas into practical web experiences.
 
 - 🎓 Computer Engineering student
-- 💻 Primary focus: Vue.js, Nuxt.js, and modern frontend development
-- 🧱 Interested in reusable components, frontend architecture, and responsive interfaces
-- 🔌 Experience with REST API integration and state management
-- 🔎 Familiar with technical SEO fundamentals and deployment workflows
-- 🤖 Currently exploring LLM APIs and AI-powered frontend integrations
+- 💻 Focused on Vue.js, Nuxt.js, JavaScript, and TypeScript
+- 🧩 Interested in reusable components and frontend architecture
+- 🔌 Experienced with REST API integration and state management
+- 🚀 Familiar with technical SEO and deployment workflows
 - 🎯 Open to Junior Frontend Developer opportunities
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
 ### Core Technologies
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt" alt="HTML, CSS, JavaScript, TypeScript, Vue.js and Nuxt.js">
 </p>
 
-### Frontend Frameworks & UI
+### UI & Styling
 <p>
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" alt="Tailwind CSS and Bootstrap">
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass" alt="Tailwind CSS, Bootstrap and Sass">
 </p>
 
-Responsive Design · Flexbox · CSS Grid · Semantic HTML · Accessibility · Reusable Components · Component Architecture
+Responsive Design · Flexbox · CSS Grid · Semantic HTML · Accessibility · Reusable Components
 
-### Vue.js & Nuxt.js
-Composition API · Composables · Reactivity · Lifecycle Hooks · Vue Router · Nuxt Middleware · Nuxt Plugins · Server Routes · Pinia · Vuex
+### State, Routing & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=pinia" alt="Pinia">
+</p>
 
-### APIs & Web Communication
-Axios · Fetch API · REST APIs · HTTP Status Codes · HTTP Caching · WebSockets · Server-Sent Events (SSE) · Pagination & Filtering · File Upload
+Vue Composition API · Composables · Vue Router · Nuxt Middleware · Nuxt Plugins · Pinia · Vuex · Axios · Fetch API · REST APIs
 
-### Rendering, Performance & SEO
-SSR · CSR · SSG · Hybrid Rendering · Hydration · PWA · Lazy Loading · Code Splitting · Core Web Vitals · Technical SEO
+### Performance & Web Concepts
 
-### Testing & Quality
-Vitest · Jest · Vue Test Utils · Unit Testing · Component Testing · End-to-End Testing · Debugging · Error Handling
-
-### Security Fundamentals
-XSS · CSRF · CORS · Authentication & Authorization
+SSR · CSR · SSG · Hybrid Rendering · Hydration · Lazy Loading · Code Splitting · Core Web Vitals · Technical SEO
 
 ### Tools & Workflow
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" alt="Git, GitHub, VS Code and Vercel">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,python" alt="Git, GitHub, VS Code, Vercel and Python">
 </p>
 
-Git Branching · Rebase · GitHub Actions · CI/CD · Environment Variables
-
-### Additional Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=python,mssql" alt="Python and Microsoft SQL Server">
-</p>
-
-SQL Server
-
-> **Currently learning:** LLM API integration for AI-powered frontend experiences.
+Git · GitHub · Branching · Rebase · GitHub Actions · CI/CD · Environment Variables · Python · SQL Server
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🌌 [AHT — Personal Portfolio](https://github.com/AmirHosseinTaghiloo/aht)
-A single-page portfolio built with Nuxt.js and Vue.js to introduce my background, showcase selected projects, and provide a central place to connect.
-
-**Focus:** Nuxt.js · Vue.js · Responsive UI · Portfolio Development
-
-[View repository →](https://github.com/AmirHosseinTaghiloo/aht)
-
-### 🛍️ [NEXORA — E-commerce Frontend](https://github.com/AmirHosseinTaghiloo/Nexora)
-An e-commerce frontend project focused on product browsing, product details, and shopping interactions, built as a practical frontend development project.
-
-**Focus:** Vue.js · Nuxt.js · E-commerce UI · Product Experiences
-
-[View repository →](https://github.com/AmirHosseinTaghiloo/Nexora)
-
-### 📅 [Shopili — Jalali Calendar Development](https://github.com/AmirHosseinTaghiloo/shopili)
-A project focused on developing a Jalali (Persian) calendar, with an emphasis on date handling and calendar interface implementation.
-
-[View repository →](https://github.com/AmirHosseinTaghiloo/shopili)
-
-### 📂 [More Projects](https://github.com/AmirHosseinTaghiloo?tab=repositories)
-Explore my repositories for more projects, experiments, and ongoing learning.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌌 AHT — Personal Portfolio</h3>
+      <p>A modern single-page portfolio built with Nuxt.js and Vue.js to introduce my background, highlight selected projects, and provide professional contact links.</p>
+      <p><strong>Stack:</strong> Nuxt.js · Vue.js · Responsive UI</p>
+      <a href="https://github.com/AmirHosseinTaghiloo/aht">View Repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛍️ NEXORA — E-commerce Frontend</h3>
+      <p>An e-commerce frontend focused on product discovery, product details, and shopping interactions, developed as a practical frontend project.</p>
+      <p><strong>Stack:</strong> Nuxt.js · Vue.js · Pinia</p>
+      <a href="https://github.com/AmirHosseinTaghiloo/Nexora">View Repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📅 Shopili — Jalali Calendar</h3>
+      <p>A project focused on Jalali (Persian) calendar development, date handling, and calendar interface implementation.</p>
+      <a href="https://github.com/AmirHosseinTaghiloo/shopili">View Repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📂 More Projects</h3>
+      <p>Explore my repositories for more projects, experiments, and ongoing learning.</p>
+      <a href="https://github.com/AmirHosseinTaghiloo?tab=repositories">Explore All Repositories →</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AmirHosseinTaghiloo&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github" alt="Amir Hossein's GitHub statistics">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirHosseinTaghiloo&layout=compact&hide_border=true&langs_count=8" alt="Most used programming languages">
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AmirHosseinTaghiloo&hide_border=true" alt="GitHub contribution streak">
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AmirHosseinTaghiloo&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Amir Hossein's GitHub statistics">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirHosseinTaghiloo&layout=compact&theme=radical&hide_border=true" alt="Most used languages">
+
+</div>
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm focused on growing as a **Junior Frontend Developer**, contributing to Vue.js and Nuxt.js projects, and gradually expanding into LLM API integrations for AI-powered web experiences.
+I'm focused on growing as a **Junior Frontend Developer**, contributing to Vue.js and Nuxt.js projects, and continuing to improve through building real-world applications.
 
-<p align="center">
-  <a href="https://github.com/AmirHosseinTaghiloo">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="Follow on GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/amir-taghiloo-605928248/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn">
-  </a>
-</p>
+<div align="center">
 
-<p align="center"><i>Build with curiosity. Improve with every iteration.</i></p>
+<a href="https://github.com/AmirHosseinTaghiloo"><img src="https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github" alt="GitHub profile"></a>
+<a href="https://www.linkedin.com/in/amir-taghiloo-605928248/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile"></a>
+
+<br><br>
+<i>Build with curiosity. Improve with every iteration.</i>
+
+</div>
