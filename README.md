@@ -1,91 +1,69 @@
-<!-- GitHub Profile README — Amir Hossein Taghiloo -->
+<!-- Profile README | Amir Hossein Taghiloo -->
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/AmirHosseinTaghiloo/AmirHosseinTaghiloo/main/assets/profile-banner.svg" alt="Amir Hossein Taghiloo — Junior Frontend Developer" width="100%" />
+  <br /><br />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,50:6A5AE0,100:8F5BFF&height=190&section=header&text=Amir%20Hossein%20Taghiloo&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Vue.js%20%26%20Nuxt.js&descAlignY=60&descSize=17" alt="Amir Hossein Taghiloo — Frontend Developer">
-
-<p>
-  <a href="https://github.com/AmirHosseinTaghiloo"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/amir-taghiloo-605928248/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <img src="https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js">
-  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt.js">
-</p>
-
+  <a href="https://github.com/AmirHosseinTaghiloo"><img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+  <a href="https://www.linkedin.com/in/amir-taghiloo-605928248/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
 </div>
 
 ---
 
 ## 👋 About Me
 
-I'm **Amir Hossein Taghiloo**, a Computer Engineering student and **Frontend Developer** focused on building modern, responsive web applications with **Vue.js** and **Nuxt.js**.
+I'm **Amir Hossein Taghiloo**, a Computer Engineering student and **Junior Frontend Developer** focused on building modern web applications with **Vue.js and Nuxt.js**.
 
-I enjoy turning ideas into practical interfaces, writing maintainable component-based code, and improving the performance and user experience of web applications. I am continuously learning through hands-on projects and exploring better ways to build for the web.
+I enjoy building responsive, user-friendly web applications with clean, maintainable code. My current focus is Vue.js and Nuxt.js frontend development, including reusable components, REST API integration, state management and user experience. My next learning goal is working with **LLM APIs** to integrate practical AI-powered features into frontend applications.
 
 - 🎓 Computer Engineering student
-- 💻 Focused on Vue.js, Nuxt.js, JavaScript, and TypeScript
-- 🧩 Interested in reusable components and frontend architecture
-- 🔌 Working with REST APIs and state management
-- 🚀 Interested in performance, rendering strategies, and technical SEO
-- 🎯 Open to Junior Frontend Developer and internship opportunities
+- 💻 **Primary focus:** Vue.js, Nuxt.js and modern frontend development
+- 🧱 Interested in reusable components, frontend architecture and responsive interfaces
+- 🔌 Experience with REST API integration and state management
+- 🔎 Familiar with technical SEO fundamentals and deployment workflows
+- 🤖 **Currently exploring:** LLM APIs and AI-powered frontend integrations
+- 🎯 **Open to Junior Frontend Developer opportunities**
 
 ---
 
-## 🧠 Technical Skills
-
 <div align="center">
 
-### Core Technologies
+<h2 align="center">🛠️ Technical Skills</h2>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="HTML, CSS, JavaScript and TypeScript">
+<p align="center"><strong>Core Technologies</strong></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="HTML, CSS, JavaScript and TypeScript" /></p>
 
-### Frontend Frameworks & UI
+<p align="center"><strong>Frontend Frameworks &amp; UI</strong></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=vue,nuxt,tailwind" alt="Vue.js, Nuxt.js and Tailwind CSS" /></p>
+<p align="center"><sub>Responsive Design · Flexbox · CSS Grid · Semantic HTML · Accessibility · Reusable Components · Component Architecture</sub></p>
 
-<img src="https://skillicons.dev/icons?i=vue,nuxt,tailwind,bootstrap,sass" alt="Vue.js, Nuxt.js, Tailwind CSS, Bootstrap and Sass">
+<p align="center"><strong>Vue.js &amp; Nuxt.js</strong></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=pinia" alt="Pinia" /></p>
+<p align="center"><sub>Composition API · Composables · Reactivity · Lifecycle Hooks · Vue Router · Nuxt Middleware · Nuxt Plugins · Server Routes · Pinia · Vuex</sub></p>
 
-Vue Composition API · Composables · Component-Based Architecture · Responsive Design · Flexbox · CSS Grid
+<p align="center"><strong>APIs &amp; Web Communication</strong></p>
+<p align="center"><img src="https://raw.githubusercontent.com/AmirHosseinTaghiloo/AmirHosseinTaghiloo/main/assets/axios-logo.svg" alt="Axios" width="54" /></p>
+<p align="center"><sub>Axios · Fetch API · REST APIs · HTTP Status Codes · HTTP Caching · WebSockets · Server-Sent Events (SSE) · Pagination &amp; Filtering · File Upload</sub></p>
 
-### State Management & Routing
+<p align="center"><strong>Rendering, Performance &amp; SEO</strong></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=nuxt" alt="Nuxt.js" /></p>
+<p align="center"><sub>SSR · CSR · SSG · Hybrid Rendering · Hydration · PWA · Lazy Loading · Code Splitting · Core Web Vitals · Technical SEO</sub></p>
 
-<img src="https://skillicons.dev/icons?i=pinia" alt="Pinia">
+<p align="center"><strong>Testing &amp; Quality</strong></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=vitest,jest" alt="Vitest and Jest" /></p>
+<p align="center"><sub>Vitest · Jest · Vue Test Utils · Unit Testing · Component Testing · End-to-End Testing · Debugging · Error Handling</sub></p>
 
-Pinia · Vuex · Vue Router · Nuxt Routing · Middleware · Plugins
+<p align="center"><strong>Security Fundamentals</strong></p>
+<p align="center"><sub>XSS · CSRF · CORS · Authentication &amp; Authorization</sub></p>
 
-### API Integration & Web Communication
+<p align="center"><strong>Tools &amp; Workflow</strong></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=git,github,githubactions,vite,vscode" alt="Git, GitHub, GitHub Actions, Vite and VS Code" /></p>
+<p align="center"><sub>Git Branching · Rebase · GitHub Actions · CI/CD · Environment Variables</sub></p>
 
-<img src="https://skillicons.dev/icons?i=axios" alt="Axios">
-
-Axios · Fetch API · REST APIs · JSON · Async/Await · HTTP Methods · API Error Handling
-
-### Rendering, Performance & SEO
-
-SSR · CSR · SSG · Hybrid Rendering · Hydration · Lazy Loading · Code Splitting · Core Web Vitals · Technical SEO · Metadata · Sitemap
-
-### Testing & Quality
-
-<p>
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest">
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest">
-</p>
-
-Unit Testing · Component Testing · Test-Driven Development (Learning)
-
-### Security
-
-HTTPS · CORS · Environment Variables · Secure API Communication · Awareness of XSS and CSRF
-
-### Tools & Workflow
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" alt="Git, GitHub, VS Code and Vercel">
-
-Git · GitHub · Branching · Pull Requests · Merge & Rebase · GitHub Actions · CI/CD · Vercel Deployment
-
-### Additional Technologies
-
-<img src="https://skillicons.dev/icons?i=python,mysql" alt="Python and MySQL">
-
-Python · MySQL · SQL Server
-
-</div>
+<p align="center"><strong>Additional Technologies</strong></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=python,mysql" alt="Python and MySQL" /></p>
+<p align="center"><sub>SQL Server</sub></p>
+<p align="center"><sub>LLM API integration is currently a learning goal.</sub></p>
 
 ---
 
@@ -95,60 +73,62 @@ Python · MySQL · SQL Server
   <tr>
     <td width="50%" valign="top">
       <h3>🌌 AHT — Personal Portfolio</h3>
-      <p>A modern single-page portfolio built with Nuxt.js and Vue.js to present my background, skills, selected projects, and professional links.</p>
-      <p><strong>Technologies:</strong> Nuxt.js · Vue.js · JavaScript · Tailwind CSS</p>
-      <a href="https://github.com/AmirHosseinTaghiloo/aht">View Repository →</a>
+      <p>A single-page portfolio built with Nuxt.js and Vue.js to introduce my background, showcase selected projects and provide a central place to connect.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=111827" alt="Nuxt" />
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+      </p>
+      <a href="https://github.com/AmirHosseinTaghiloo/aht"><strong>View repository →</strong></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🛍️ NEXORA — E-commerce</h3>
-      <p>A modern e-commerce frontend project focused on product discovery, product details, reusable UI components, and shopping cart interactions.</p>
-      <p><strong>Technologies:</strong> Nuxt.js · Vue.js · Pinia</p>
-      <a href="https://github.com/AmirHosseinTaghiloo/Nexora">View Repository →</a>
+      <h3>🛍️ NEXORA — E-commerce Frontend</h3>
+      <p>An e-commerce frontend project focused on product browsing, product details and shopping interactions, built as a practical frontend development project.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=111827" alt="Nuxt" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=pinia&logoColor=111827" alt="Pinia" />
+      </p>
+      <a href="https://github.com/AmirHosseinTaghiloo/Nexora"><strong>View repository →</strong></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📅 Shopili</h3>
-      <p>A frontend project built with Nuxt, exploring interactive interfaces and practical application development.</p>
-      <p><strong>Technologies:</strong> Nuxt.js · Vue.js · JavaScript</p>
-      <a href="https://github.com/AmirHosseinTaghiloo/shopili">View Repository →</a>
+      <h3>📅 Shopili — Jalali Calendar Development</h3>
+      <p>A project focused on developing a Jalali (Persian) calendar, with an emphasis on date handling and calendar interface implementation.</p>
+      <a href="https://github.com/AmirHosseinTaghiloo/shopili"><strong>View repository →</strong></a>
     </td>
     <td width="50%" valign="top">
       <h3>📂 More Projects</h3>
-      <p>Explore my repositories to see more experiments, practice projects, and ongoing work.</p>
-      <a href="https://github.com/AmirHosseinTaghiloo?tab=repositories">Explore All Repositories →</a>
+      <p>Explore my repositories for more projects, experiments and ongoing learning.</p>
+      <a href="https://github.com/AmirHosseinTaghiloo?tab=repositories"><strong>Explore all repositories →</strong></a>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📈 GitHub Statistics
+## 🐍 
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AmirHosseinTaghiloo&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Amir Hossein's GitHub statistics">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirHosseinTaghiloo&layout=compact&theme=radical&hide_border=true" alt="Most used programming languages">
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AmirHosseinTaghiloo&theme=radical&hide_border=true" alt="GitHub contribution streak">
-
-</div>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/AmirHosseinTaghiloo/AmirHosseinTaghiloo/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub contribution snake animation"
+    width="100%"
+  />
+</p>
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always interested in learning, collaborating, and contributing to meaningful frontend projects. If you're working with Vue.js or Nuxt.js, feel free to connect.
+I'm focused on growing as a **Junior Frontend Developer**, contributing to Vue.js and Nuxt.js projects, and gradually expanding into **LLM API integrations** for AI-powered web experiences.
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/amir-taghiloo-605928248/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="https://github.com/AmirHosseinTaghiloo"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
+</div>
 
-<a href="https://github.com/AmirHosseinTaghiloo"><img src="https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"></a>
-<a href="https://www.linkedin.com/in/amir-taghiloo-605928248/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"></a>
-
-<br><br>
-
-<i>Build with curiosity. Improve with every iteration.</i>
-
+<div align="center">
+  <br />
+  <i>Build with curiosity. Improve with every iteration.</i>
 </div>
