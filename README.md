@@ -5,8 +5,6 @@
   <br /><br />
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=850&color=FF8A00&center=true&vCenter=true&width=850&lines=Junior+Frontend+Developer;Vue.js+%7C+Nuxt.js+%7C+JavaScript+%7C+TypeScript;Building+responsive+and+modern+web+experiences" alt="Typing introduction" /></a>
   <br /><br />
-  <img src="https://raw.githubusercontent.com/AmirHosseinTaghiloo/AmirHosseinTaghiloo/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%" />
-  <br /><br />
   <a href="https://github.com/AmirHosseinTaghiloo"><img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
   <a href="https://www.linkedin.com/in/amir-taghiloo-605928248/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
 </div>
