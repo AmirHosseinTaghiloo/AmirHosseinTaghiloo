@@ -72,6 +72,14 @@ I enjoy building responsive, user-friendly web applications with clean, maintain
 
 ---
 
+## 🐍 GitHub Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AmirHosseinTaghiloo/AmirHosseinTaghiloo/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%" />
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 <table>
