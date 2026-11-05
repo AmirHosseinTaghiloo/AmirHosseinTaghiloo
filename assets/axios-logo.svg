@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="64" viewBox="0 0 160 64" role="img" aria-labelledby="t">
+<title id="t">Axios</title>
+<rect x="1" y="1" width="158" height="62" rx="12" fill="#2b1745" stroke="#8b5cf6" stroke-width="2"/>
+<path d="M29 15 L45 48 H37 L29 31 L21 48 H13 Z" fill="#a78bfa"/>
+<path d="M29 15 L37 31 H21 Z" fill="#f5f3ff"/>
+<text x="54" y="41" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#fff">Axios</text>
+</svg>
